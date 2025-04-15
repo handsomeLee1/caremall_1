@@ -1,0 +1,23 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configuration files with sensitive information
+config.php
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Log files
+*.log
+/logs/
+
+# Cache files
+/cache/ 
